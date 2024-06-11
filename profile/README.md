@@ -40,7 +40,7 @@ Bem-vindo ao repositório da **H2ORA**! Aqui você encontrará todas as informa�
 Você pode visualizar os protótipos do H2ORA no Figma através dos links abaixo:
 
 - 📱 [Protótipo App no Figma](https://www.figma.com/proto/mobile-prototype)
-- 💻 [Protótipo LadningPage no Figma](https://www.figma.com/proto/web-prototype)
+- 💻 [Protótipo LandingPage no Figma](https://www.figma.com/proto/web-prototype)
 
 ## 🌐 Saiba Mais
 
